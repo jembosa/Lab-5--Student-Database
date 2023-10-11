@@ -21,7 +21,7 @@
                     }
 
 
-                    //x = 1;
+
                     int index = snumber - 1;
 
                     Console.WriteLine("Student Name: " + names[index]);
